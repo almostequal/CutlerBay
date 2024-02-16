@@ -6,11 +6,11 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = ""
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Project Culter Bay (IS250)"
+LANDING_DESCRIPTION = "2011 Lexus IS250 Restoration"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "2011 Lexus IS250"
+LANDING_TITLE = "Project Cutler Bay"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/almostequal/CutlerBay"
